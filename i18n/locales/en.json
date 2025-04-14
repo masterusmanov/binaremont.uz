@@ -1,13 +1,13 @@
 {
-   "header":{
-    "navbar":{
-        "one": "Home",
-        "two": "Our Works",
-        "three": "Calculator",
-        "four": "Partners",
-        "five": "Work Process",
-        "six": "How Much Does Renovation Cost?",
-        "btn": "Discuss the Project"
+    "header":{
+            "navbar":{
+                "one": "Home",
+                "two": "Our Works",
+                "three": "Calculator",
+                "four": "Partners",
+                "five": "Work Process",
+                "six": "How Much Does Renovation Cost?",
+                "btn": "Discuss the Project"
+            }
     }
-   }
 }

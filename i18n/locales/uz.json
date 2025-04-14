@@ -1,13 +1,13 @@
 {
-   "header":{
-    "navbar":{
-        "one": "Bosh sahifa",
-        "two": "Bizning ishlarimiz",
-        "three": "Kalkulyator",
-        "four": "Hamkorlar",
-        "five": "Ish jarayoni",
-        "six": "Ta'mirlash qancha turadi?",
-        "btn": "Loyihani muhokama qilish"
+    "header":{
+        "navbar":{
+            "one": "Bosh sahifa",
+            "two": "Bizning ishlarimiz",
+            "three": "Kalkulyator",
+            "four": "Hamkorlar",
+            "five": "Ish jarayoni",
+            "six": "Ta'mirlash qancha turadi?",
+            "btn": "Loyihani muhokama qilish"
+        }
     }
-   }
 }

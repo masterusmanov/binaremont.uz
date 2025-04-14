@@ -34,4 +34,41 @@ export default defineNuxtConfig({
       redirectOn: "root",
     },
   },
+  css: ["~/assets/css/main.css"],
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+  app: {
+    head: {
+      title: "binaremont",
+      meta: [
+        { charset: "utf-8" },
+        { name: "viewport", content: "width=device-width, initial-scale=1" },
+        {
+          hid: "description",
+          name: "description",
+          content: "buxgalteriyaga oid barcha xizmatlar",
+        },
+        {
+          name: "keywords",
+          content: "biznes, audit, moliya, soliq, xisobni tiklash",
+        },
+        { name: "robots", content: "index, follow" },
+      ],
+
+      link: [
+        { rel: "icon", type: "image/x-icon", href: "/bestlogo.svg" },
+        {
+          rel: "stylesheet",
+          href: "https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css",
+        },
+        { rel: "stylesheet", href: "https://fonts.googleapis.com" },
+        { rel: "stylesheet", href: "https://fonts.gstatic.com" },
+        { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Manrope:wght@200..800&display=swap" }
+      ],
+    },
+  },
 });

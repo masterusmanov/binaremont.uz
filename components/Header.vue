@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-[#1C6364] h-[60px] md:h-[96px]">
-        <div class="container mx-auto px-[20px] lg:px-0 xl:px-[10px] 2xl:px-0 h-full flex items-center justify-between text-[#DBE7E7]">
+    <div class="w-full bg-[#1C6364] h-[60px] md:h-[96px] fixed z-50 top-0 left-0">
+        <div class="container mx-auto px-[20px] lg:px-0 xl:px-[10px] 2xl:px-0 h-full flex items-center justify-between lg:justify-center lg:gap-[12px] text-[#DBE7E7]">
             <div class="flex items-center gap-[24px] xl:gap-[48px]">
                 <img src="../assets/images/mainLogo.svg" alt="Main logo" loading="lazy" class="w-[100px] h-[60px] md:w-[150px] md:h-[60px] lg:w-[120px] 2xl:w-[200px]" />
                 <div class="hidden text-[12px] xl:text-[14px] lg:flex items-center gap-[10px] xl:gap-[24px]">

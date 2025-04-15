@@ -35,5 +35,39 @@
             }    
         }
 
+    },
+    "sectionprojects": {
+        "onecard": "TURAR-JOY LOYIHALARI",
+        "twocard": "TIJORAT LOYIHALARI",
+        "threecard": "OFISLAR"
+    },
+    "sectioncalculator": {
+        "pageone": {
+            "title": "Qaysi ob'ektni ta'mirlashni xohlaysiz?",
+            "cards": {
+                "one": "Yangi qurilgan kvartira",
+                "two": "Qayta ta'mirlash",
+                "three": "Zamonaviy ofis",
+                "four": "Ijtimoiy ta'mirlash"
+            }
+        },
+        "pagetwo": "Taxminiy maydonni ko'rsating",
+        "pagethree": "Xonalar soni:",
+        "pagefour": {
+            "title": "Ta'mirlash turini tanlang",
+            "cards": {
+                "one": "Kosmetik ta'mirlash",
+                "two": "Kapital ta'mirlash",
+                "three": "Dizaynerlik ta'miri"
+            }
+        },
+        "pagefive": "Taxminiy byudjetni ko'rsating",
+        "pagesix": {
+            "name": "Ismingiz",
+            "phone": "99-123-45-67"
+        },
+        "btnprev": "Orqaga",
+        "btnnext": "Keyingi",
+        "btnsend": "So'rovni yuborish"        
     }
 }

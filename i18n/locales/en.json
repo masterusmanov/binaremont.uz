@@ -35,5 +35,39 @@
             }    
         }
 
+    },
+    "sectionprojects": {
+        "onecard": "RESIDENTIAL PROJECTS",
+        "twocard": "COMMERCIAL PROJECTS",
+        "threecard": "OFFICES"
+    },
+    "sectioncalculator": {
+        "pageone": {
+            "title": "Which property are you interested in renovating?",
+            "cards": {
+                "one": "New apartment",
+                "two": "Secondary renovation",
+                "three": "Modern office",
+                "four": "Social renovation"
+            }
+        },
+        "pagetwo": "Specify the approximate area",
+        "pagethree": "Number of rooms:",
+        "pagefour": {
+            "title": "Select the type of renovation",
+            "cards": {
+                "one": "Cosmetic renovation",
+                "two": "Major renovation",
+                "three": "Designer renovation"
+            }
+        },
+        "pagefive": "Indicate your estimated budget",
+        "pagesix": {
+            "name": "Your name",
+            "phone": "99-123-45-67"
+        },
+        "btnprev": "Back",
+        "btnnext": "Next",
+        "btnsend": "Submit request"        
     }
 }

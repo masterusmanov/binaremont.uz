@@ -2,6 +2,7 @@
     <div>
         <MainSection/>
         <TwoSectionCards/>
+        <SectionCalculator/>
     </div>
 </template>
 

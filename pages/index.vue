@@ -3,6 +3,7 @@
         <MainSection/>
         <TwoSectionCards/>
         <SectionCalculator/>
+        <SectionPartner/>
     </div>
 </template>
 
@@ -11,5 +12,5 @@
 </script>
 
 <style lang="scss" scoped>
-
+    
 </style>

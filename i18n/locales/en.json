@@ -71,5 +71,6 @@
         "btnprev": "Back",
         "btnnext": "Next",
         "btnsend": "Submit request"        
-    }
+    },
+    "only_one": "OUR PARTNER BRANDS:"
 }

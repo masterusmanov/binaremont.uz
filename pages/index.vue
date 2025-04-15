@@ -1,6 +1,7 @@
 <template>
     <div>
         <MainSection/>
+        <TwoSectionCards/>
     </div>
 </template>
 

@@ -9,5 +9,31 @@
             "six": "Ta'mirlash qancha turadi?",
             "btn": "Loyihani muhokama qilish"
         }
+    },
+    "mainsection":{
+        "title": {
+            "one": "Kapital va ta'mirlash",
+            "two": "kosmetik",
+            "three": "ta'mirlash"
+        },
+        "desc": {
+            "one": "Qulay muhit, funksionallik",
+            "two": "va estetikani yaratamiz"
+        },
+        "sections": {
+            "onesec": {
+                "one": "Tajribali",
+                "two": "ustalar"
+            },
+            "twosec": {
+                "one": "Zamonaviy",
+                "two": "dizayn"
+            },
+            "threesec": {
+                "one": "Sifatli",
+                "two": "materiallar"
+            }    
+        }
+
     }
 }

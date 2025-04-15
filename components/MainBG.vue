@@ -2,7 +2,7 @@
   <div class="relative w-full bg-teal-800 bg-opacity-90 overflow-hidden">
       <div class="absolute inset-0 w-full h-full z-0" :style="{backgroundImage: `url(${backgroundImage})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', backgroundPosition: 'center'}"></div>
       
-      <div class="absolute inset-0 bg-teal-900 bg-opacity-70 z-10"></div>
+      <div class="absolute inset-0 bg-[#184748] bg-opacity-85 z-10"></div>
       
     <div class="relative mt-[50px] md:mt-[100px] z-20 container mx-auto h-full flex flex-col justify-between py-10 px-4">
       <div class="mt-8">
@@ -11,21 +11,21 @@
       </div>
       
       <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-        <div class="flex items-start overflow-hidden">
+        <div class="flex items-center overflow-hidden">
           <div class="slide-right-animation">
             <img :src="iconn" alt="icon" class="w-[70%]">
           </div>
           <div class="text-white font-[700] slide-left-animation">ОПЫТНЫЕ <br> МАСТЕР</div>
         </div>
         
-        <div class="flex items-start overflow-hidden">
+        <div class="flex items-center overflow-hidden">
           <div class="slide-right-animation">
             <img :src="iconn" alt="icon" class="w-[70%]">
           </div>
           <div class="text-white font-[700] slide-left-animation">СТИЛЬНЫЙ <br> ДИЗАЙН</div>
         </div>
         
-        <div class="flex items-start overflow-hidden">
+        <div class="flex items-center overflow-hidden">
           <div class="slide-right-animation">
             <img :src="iconn" alt="icon" class="w-[70%]">
           </div>

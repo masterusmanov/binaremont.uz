@@ -9,5 +9,31 @@
                 "six": "How Much Does Renovation Cost?",
                 "btn": "Discuss the Project"
             }
+    },
+    "mainsection":{
+        "title": {
+            "one": "To renovate",
+            "two": "thoroughly and",
+            "three": "cosmetically"
+        },
+        "desc": {
+            "one": "Creating comfort, functionality",
+            "two": "and aesthetics"
+        },
+        "sections": {
+            "onesec": {
+                "one": "Experienced",
+                "two": "masters"
+            },
+            "twosec": {
+                "one": "Stylish",
+                "two": "design"
+            },
+            "threesec": {
+                "one": "Quality",
+                "two": "materials"
+            }    
+        }
+
     }
 }

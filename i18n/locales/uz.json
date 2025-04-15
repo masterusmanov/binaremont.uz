@@ -64,6 +64,8 @@
         "pagefive": "Taxminiy byudjetni ko'rsating",
         "pagesix": {
             "name": "Ismingiz",
+            "phonetitle": "Telefon raqam",
+            "namedesc": "Ismingiz",
             "phone": "99-123-45-67"
         },
         "btnprev": "Orqaga",

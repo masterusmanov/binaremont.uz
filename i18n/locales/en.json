@@ -64,6 +64,8 @@
         "pagefive": "Indicate your estimated budget",
         "pagesix": {
             "name": "Your name",
+            "phonetitle": "Phone number",
+            "namedesc": "Your name",
             "phone": "99-123-45-67"
         },
         "btnprev": "Back",

@@ -7,6 +7,7 @@
         <SectionAdvantages/>
         <SectionRepaire/>
         <SectionRepaireTime/>
+        <SectionRepaireLevel/>
     </div>
 </template>
 

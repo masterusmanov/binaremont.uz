@@ -179,5 +179,67 @@
             "duration": "Davomiyligi",
             "week": "hafta"
         }
+    },
+    "sectionrepairelevel": {
+        "titleone": "Oddiy sxemaga qarang",
+        "titletwo": "ta'miringizni qanday amalga oshirishimiz bo'yicha 6 ta bosqich",
+        "cards": {
+            "onecard": {
+            "title": {
+                "one": "Bizga qo'ng'iroq qiling",
+                "two": "raqam orqali"
+            },
+            "desc": "Yoki sayt orqali ariza qoldiring"
+            },
+            "twocard": {
+            "title": {
+                "one": "Bepul",
+                "two": "tashrif"
+            },
+            "desc": "o'lchovchining obyektga tashrifi",
+            "btncall": "o'lchovchini chaqirish"
+            },
+            "threecard": {
+            "title": {
+                "one": "Smeta",
+                "two": "hisob-kitob"
+            },
+            "desc": {
+                "one": "va loyihani",
+                "two": "kelishish"
+            }
+            },
+            "fourcard": {
+            "title": {
+                "one": "Ishlarni boshqaruvchi",
+                "two": "tashrifi"
+            },
+            "desc": {
+                "one": "shartnoma",
+                "two": "imzolash uchun"
+            }
+            },
+            "fivecard": {
+            "title": {
+                "one": "Ta'mirlash",
+                "two": "ishlarini"
+            },
+            "desc": {
+                "one": "shartnoma bo'yicha",
+                "two": "bajarish"
+            }
+            },
+            "sixcard": {
+            "title": {
+                "one": "Tasdiqlash",
+                "two": "va topshirish"
+            },
+            "desc": {
+                "one": "obyektni",
+                "two": "buyurtmachiga"
+            }
+            }
+        },
+        "btnordersend": "ariza qoldirish"
     }
 }

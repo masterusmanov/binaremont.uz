@@ -179,5 +179,67 @@
             "duration": "Duration",
             "week": "weeks"
         }
+    },
+    "sectionrepairelevel": {
+        "titleone": "Look at a simple diagram of",
+        "titletwo": "6 steps on how we will do your repair",
+        "cards": {
+            "onecard": {
+            "title": {
+                "one": "Call us",
+                "two": "by number"
+            },
+            "desc": "Or leave a request through the website"
+            },
+            "twocard": {
+            "title": {
+                "one": "Free",
+                "two": "visit"
+            },
+            "desc": "of a measurer to the object",
+            "btncall": "call a measurer"
+            },
+            "threecard": {
+            "title": {
+                "one": "Calculation",
+                "two": "of estimate"
+            },
+            "desc": {
+                "one": "and approval",
+                "two": "of the project"
+            }
+            },
+            "fourcard": {
+            "title": {
+                "one": "Visit of the",
+                "two": "foreman"
+            },
+            "desc": {
+                "one": "for signing",
+                "two": "the contract"
+            }
+            },
+            "fivecard": {
+            "title": {
+                "one": "Execution",
+                "two": "of repair"
+            },
+            "desc": {
+                "one": "works",
+                "two": "under the contract"
+            }
+            },
+            "sixcard": {
+            "title": {
+                "one": "Approval",
+                "two": "and delivery"
+            },
+            "desc": {
+                "one": "of the object",
+                "two": "to the customer"
+            }
+            }
+        },
+        "btnordersend": "leave a request"
     }
 }

@@ -8,12 +8,12 @@
             <form class="space-y-6">
             <div>
                 <label for="name" class="block text-sm font-medium text-gray-700 mb-1">{{$t('sectionquetioncall.labelname')}}</label>
-                <input type="text" id="name" name="name" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none" :placeholder="$t('sectionquetioncall.labelname')">
+                <input type="text" id="name" name="name" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none" :placeholder="$t('sectionquetioncall.labelname')" required>
             </div>
             
             <div>
                 <label for="phone" class="block text-sm font-medium text-gray-700 mb-1">{{$t('sectionquetioncall.labelphone')}}</label>
-                <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none" placeholder="+998 __ ___ __ __">
+                <input type="tel" id="phone" name="phone" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none" placeholder="+998 __ ___ __ __" required>
             </div>
             
             <button type="submit" class="w-full bg-[#1C6364]  text-white font-medium py-2 px-4 transition duration-300">{{$t('sectionquetioncall.send')}}</button>

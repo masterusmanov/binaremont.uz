@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-[#1C6364]">
+    <div class="bg-[#1C6364] mt-[150px] ">
         <div class="container mx-auto text-white py-[30px] xl:py-[50px] px-[40px] grid gap-[24px] md:flex md:gap-[24px] lg:justify-between xl:justify-around">
             <div class="grid gap-[8px] md:w-[40%]">
                 <img :src="mainLogo" alt="Main logo" loading="lazy" class="w-[150px]">

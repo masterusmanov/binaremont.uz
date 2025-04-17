@@ -241,5 +241,19 @@
             }
         },
         "btnordersend": "ariza qoldirish"
+    },
+    "sectionquetioncall": {
+        "title": "Sizga qo'ng'iroq qilib javob beramiz",
+        "desc": "barcha savollaringizga",
+        "labelphone": "Telefon raqami",
+        "labelname": "Ismingiz",
+        "send": "Yuborish",
+        "visid": "Shoshilinch zarurmi? Qo'ng'iroq qiling:"
+    },
+    "footer": {
+        "desc": "Turar-joy va noturar-joy ko'chmas mulki sohasida ta'mirlash xizmatlarini o'z ichiga olgan kompleks xizmatlar.",
+        "social": "Ijtimoiy tarmoqlarda biz:",
+        "contact": "Bog'lanish uchun telefon raqami:",
+        "address": "Mustaqillik prospekti 59"
     }
 }

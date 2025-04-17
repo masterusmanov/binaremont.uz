@@ -241,5 +241,19 @@
             }
         },
         "btnordersend": "leave a request"
+    },
+    "sectionquetioncall": {
+        "title": "We will call you back and answer",
+        "desc": "all your questions",
+        "labelphone": "Phone number",
+        "labelname": "Your name",
+        "send": "Send",
+        "visid": "Need it urgently? Call us:"
+    },
+    "footer": {
+        "desc": "Comprehensive services in residential and non-residential real estate, including repair services.",
+        "social": "We are on social networks:",
+        "contact": "Contact phone number:",
+        "address": "59 Mustaqillik Avenue"
     }
 }

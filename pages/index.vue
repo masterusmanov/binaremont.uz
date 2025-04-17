@@ -8,6 +8,7 @@
         <SectionRepaire/>
         <SectionRepaireTime/>
         <SectionRepaireLevel/>
+        <SectionQuetionCall/>
     </div>
 </template>
 

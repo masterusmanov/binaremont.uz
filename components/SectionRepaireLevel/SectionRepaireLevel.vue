@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto my-[100px] xl:my-[150px]">
         <div class="w-full lg:flex justify-between 2xl:justify-around">
             <div class="backbgone px-[20px] py-[50px] xl:w-[30%] 2xl:w-[35%] xl:mx-[20px] 2xl:mx-0">
                 <p class="w-[60%] lg:w-full text-xl md:text-2xl lg:text-3xl text-[#1C6364] pt-[30px] lg:pt-[200px] slide-left-animation ">{{$t('sectionrepairelevel.titleone').toUpperCase()}}</p>
@@ -31,8 +31,8 @@
                         <div class="bg-[#1C6364] px-[10px] py-[2px] flex items-center font-[700] absolute top-0 left-0 z-20 text-xl text-white rounded-full">3</div>
                         <img :src="calculator" alt="Calculator" loading="lazy" class="svg-icon w-[80px] mx-auto">
                         <div class="border-l-2 border-gray-300 px-[15px] w-[250px]">
-                            <p class="text-[#1C6364] text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.threecard.title.one').toUpperCase()}} <br>{{$t('sectionrepairelevel.cards.threecard.title.two').toUpperCase()}}</p>
-                            <p class="text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.threecard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.threecard.desc.two').toUpperCase()}}</p>
+                            <p class="text-[#1C6364] text-xl md:text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.threecard.title.one').toUpperCase()}} <br>{{$t('sectionrepairelevel.cards.threecard.title.two').toUpperCase()}}</p>
+                            <p class="md:text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.threecard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.threecard.desc.two').toUpperCase()}}</p>
                             <button class="bg-[#1C6364] text-white font-[500] py-[5px] px-[20px] my-[15px] slide-up-animation">{{$t('sectionrepairelevel.btnordersend').toUpperCase()}}</button>
                         </div>
                     </div>
@@ -40,8 +40,8 @@
                         <div class="bg-[#1C6364] px-[10px] py-[2px] flex items-center font-[700] absolute top-0 left-0 z-20 text-2xl text-white rounded-full">5</div>
                         <img :src="building" alt="Calculator" loading="lazy" class="svg-icon w-[80px] mx-auto">
                         <div class="border-l-2 border-gray-300 px-[15px] w-[250px]">
-                            <p class="text-[#1C6364] text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.fourcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.title.two').toUpperCase()}}</p>
-                            <p class="text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.fivecard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fivecard.desc.two').toUpperCase()}}</p>
+                            <p class="text-[#1C6364] text-xl md:text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.fourcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.title.two').toUpperCase()}}</p>
+                            <p class="md:text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.fivecard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fivecard.desc.two').toUpperCase()}}</p>
                             <button class="bg-[#1C6364] text-white font-[500] py-[5px] px-[20px] my-[15px] slide-up-animation">{{$t('sectionrepairelevel.btnordersend').toUpperCase()}}</button>
                         </div>
                     </div>
@@ -51,8 +51,8 @@
                         <div class="bg-[#1C6364] px-[10px] py-[2px] flex items-center font-[700] absolute top-0 left-0 z-20 text-md text-white rounded-full">2</div>
                         <img :src="measurement" alt="Headphone" loading="lazy" class="svg-icon w-[70px] mx-auto">
                         <div class="border-l-2 border-gray-300 px-[15px] w-[250px]">
-                            <p class="text-[#1C6364] text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.twocard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.twocard.title.two').toUpperCase()}}</p>
-                            <p class="text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.twocard.desc').toUpperCase()}}</p>
+                            <p class="text-[#1C6364] text-xl md:text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.twocard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.twocard.title.two').toUpperCase()}}</p>
+                            <p class="md:text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.twocard.desc').toUpperCase()}}</p>
                             <button class="bg-[#1C6364] text-white font-[500] py-[5px] px-[20px] my-[15px] slide-up-animation">{{$t('sectionrepairelevel.cards.twocard.btncall').toUpperCase()}}</button>
                         </div>
                     </div>
@@ -60,8 +60,8 @@
                         <div class="bg-[#1C6364] px-[10px] py-[2px] flex items-center font-[700] absolute top-0 left-0 z-20 text-2xl text-white rounded-full">4</div>
                         <img :src="builder" alt="Calculator" loading="lazy" class="svg-icon w-[80px] mx-auto">
                         <div class="border-l-2 border-gray-300 px-[15px] w-[250px]">
-                            <p class="text-[#1C6364] text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.fourcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.title.two').toUpperCase()}}</p>
-                            <p class="text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.fourcard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.desc.two').toUpperCase()}}</p>
+                            <p class="text-[#1C6364] text-xl md:text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.fourcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.title.two').toUpperCase()}}</p>
+                            <p class="md:text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.fourcard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.fourcard.desc.two').toUpperCase()}}</p>
                             <button class="bg-[#1C6364] text-white font-[500] py-[5px] px-[20px] my-[15px] slide-up-animation">{{$t('sectionrepairelevel.btnordersend').toUpperCase()}}</button>
                         </div>
                     </div>
@@ -69,8 +69,8 @@
                         <div class="bg-[#1C6364] px-[10px] py-[2px] flex items-center font-[700] absolute top-0 left-0 z-20 text-3xl text-white rounded-full">6</div>
                         <img :src="contract" alt="Calculator" loading="lazy" class="svg-icon w-[80px] mx-auto">
                         <div class="border-l-2 border-gray-300 px-[15px] w-[250px]">
-                            <p class="text-[#1C6364] text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.sixcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.sixcard.title.two').toUpperCase()}}</p>
-                            <p class="text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.sixcard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.sixcard.desc.two').toUpperCase()}}</p>
+                            <p class="text-[#1C6364] text-xl md:text-2xl font-[700] my-[3px] slide-right-animation">{{$t('sectionrepairelevel.cards.sixcard.title.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.sixcard.title.two').toUpperCase()}}</p>
+                            <p class="md:text-[18px] slide-left-animation">{{$t('sectionrepairelevel.cards.sixcard.desc.one').toUpperCase()}} <br> {{$t('sectionrepairelevel.cards.sixcard.desc.two').toUpperCase()}}</p>
                             <button class="bg-[#1C6364] text-white font-[500] py-[5px] px-[20px] my-[15px] slide-up-animation">{{$t('sectionrepairelevel.btnordersend').toUpperCase()}}</button>
                         </div>
                     </div>

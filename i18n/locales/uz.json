@@ -72,5 +72,112 @@
         "btnnext": "Keyingi",
         "btnsend": "So'rovni yuborish"        
     },
-    "only_one": "HAMKORLIK QILADIGAN BRENDLARIMIZ::"
+    "only_one": "HAMKORLIK QILADIGAN BRENDLARIMIZ:",
+    "sectionadvantages": {
+        "title": "afzalliklar",
+        "iconone": {
+            "title": {
+            "one": "Bepul",
+            "two": "o'lchov uchun tashrif"
+            },
+            "desc": {
+            "one": "shartnoma tuzilgandan",
+            "two": "so'ng"
+            }
+        },
+        "icontwo": {
+            "title": {
+            "one": "Muddatlar va narxlarni",
+            "two": "belgilaymiz"
+            },
+            "desc": {
+            "one": "Smetani tuzamiz va",
+            "two": "ishlar tugagunga qadar",
+            "three": "narxni oshirmaymiz"
+            }
+        },
+        "iconthree": {
+            "title": {
+            "one": "Kafolat bilan",
+            "two": "shartnoma bo'yicha",
+            "three": "bosqichma-bosqich to'lov"
+            },
+            "desc": {
+            "one": "naqd va",
+            "two": "naqdsiz hisob-kitob"
+            }
+        }
+    },
+    "sectionrepaire": {
+        "titleone": "TA'MIRLASH NARXI",
+        "titletwo": "INDIVIDUAL HISOBLANADI",
+        "accordion": {
+            "one": "Obyekt dizaynini yaratish",
+            "two": "3D vizualizatsiya",
+            "three": "Loyiha hujjatlari (loyiha smetasi, elektr va santexnika sxemalari, mebel, texnika va dekorativ elementlarni joylashtirish)",
+            "four": "Loyihani mualliflik nazorati",
+            "five": "Qurilish va ta'mirlash materiallarini tanlash, sotib olish, yetkazib berish va ko'tarish.",
+            "six": "Kapital ta'mirlash (devorlarni suvoq qilish, devorlarni shpaklyovka qilish, elektr va santexnika nuqtalarini yotqizish, gulqog'ozlarni yopishtirish, devorlarni bo'yash, pollarni tekislash, laminat va kafelni yotqizish, plintuslarni, derazalarni o'rnatish, gipsokarton konstruksiyalarini o'rnatish, yoritish elementlarini, rozetkalarni va o'chirgichlarni o'rnatish va ulash, santexnikani o'rnatish va ulash)",
+            "seven": "Mebellarni tanlash, buyurtma qilish va joylashtirish",
+            "eight": "Maishiy texnikani tanlash, buyurtma qilish va o'rnatish (standart to'plam)",
+            "nine": "Yoritish elementlari, qandillar, devor chiroqlarini va boshqalarni tanlash va o'rnatish (** standart to'plam)",
+            "ten": "Santexnika va aksessuarlarni tanlash",
+            "eleven": "Interer/eksterier bezatish (home staging)",
+            "twelev": "Ta'mirdan keyin umumiy tozalash",
+            "thirteen": "Qurilish chiqindilarini olib chiqish",
+            "fourteen": "Bajarilgan ishlarga kafolat: 1 yil*"
+        }
+    },
+    "sectionrepairetime": {
+        "titleone": "TA'MIRLASH TARTIBI VA QANCHA VAQT OLADI?",
+        "titletwo": "SIZNING TA'MIRINGIZ QANDAY AMALGA OSHIRILADI?",
+        "cards": {
+            "firstcard": {
+            "title": "XOMAKI ISHLAR",
+            "category": {
+                "one": "Dizayn-loyihasini yaratish",
+                "two": "Smetani tasdiqlash",
+                "three": "Devorlarni demontaj qilish va qurish",
+                "four": "Santexnika va elektr tarmog'ini yotqizish",
+                "five": "Muhandislik ishlari"
+            }
+            },
+            "secondcard": {
+            "title": "OLDINTOZA ISHLAR",
+            "category": {
+                "one": "Shipni yakuniy pardozlash",
+                "two": "Devorlarni yakuniy pardozlash",
+                "three": "Devorlarni demontaj qilish va qurish",
+                "four": "Muhandislik ishlari",
+                "five": "Devorlarni suvoq qilish",
+                "six": "Santexnika va elektr tarmog'ini yotqizish",
+                "seven": "Polni tekislash"
+            }
+            },
+            "thirtcard": {
+            "title": "PARDOZLASH ISHLARI",
+            "category": {
+                "one": "Shipni qoplash",
+                "two": "Kafel ishlari",
+                "three": "Devorlarni shpaklyovka qilish",
+                "four": "Shiplarni shpaklyovka qilish",
+                "five": "Devor va shiplarni silliqlash",
+                "six": "Devor va shiplarni gruntlash"
+            }
+            },
+            "fourcard": {
+            "title": "YAKUNIY ISHLAR",
+            "category": {
+                "one": "Ship va devorlarni bo'yash",
+                "two": "Gulqog'ozlarni yopishtirish",
+                "three": "Pol va plintuslarni o'rnatish",
+                "four": "Rozetka va o'chirgichlarni o'rnatish",
+                "five": "Mebel va qandillarni o'rnatish",
+                "six": "Santexnika jihozlarini o'rnatish"
+            }
+            },
+            "duration": "Davomiyligi",
+            "week": "hafta"
+        }
+    }
 }

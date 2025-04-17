@@ -3,7 +3,7 @@
         <div class="container mx-auto h-full pt-[20px] md:pt-[40px] px-[20px] 2xl:px-0 lg:pt-[35px] xl:pt-[25px]">
             <h1 class="text-white text-2xl md:text-4xl lg:text-5xl xl:text-6xl mt-[15px] slide-up-animation">{{$t('only_one').toUpperCase()}}</h1>
         </div>
-       <div class="bg-[#EAEAEA] py-[100px]">
+       <div class="bg-[#EAEAEA] py-[50px] md:py-[100px]">
             <div class="container mx-auto px-4">
                 <div class="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-4">
                 <div v-for="el of sectionbrandcard" :key="el.id" class="bg-white p-6 flex items-center justify-center">

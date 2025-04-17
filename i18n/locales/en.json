@@ -72,5 +72,112 @@
         "btnnext": "Next",
         "btnsend": "Submit request"        
     },
-    "only_one": "OUR PARTNER BRANDS:"
+    "only_one": "OUR PARTNER BRANDS:",
+    "sectionadvantages": {
+        "title": "advantages",
+        "iconone": {
+            "title": {
+            "one": "Free",
+            "two": "measurement visit"
+            },
+            "desc": {
+            "one": "after signing",
+            "two": "the contract"
+            }
+        },
+        "icontwo": {
+            "title": {
+            "one": "We fix",
+            "two": "deadlines and costs"
+            },
+            "desc": {
+            "one": "We prepare estimates and",
+            "two": "don't increase prices",
+            "three": "until work completion"
+            }
+        },
+        "iconthree": {
+            "title": {
+            "one": "Phased payment",
+            "two": "under contract with",
+            "three": "guarantee"
+            },
+            "desc": {
+            "one": "cash and",
+            "two": "non-cash payment"
+            }
+        }
+    },
+    "sectionrepaire": {
+        "titleone": "REPAIR COST",
+        "titletwo": "IS CALCULATED INDIVIDUALLY",
+        "accordion": {
+            "one": "Creating object design",
+            "two": "3D visualization",
+            "three": "Project documentation (project estimate, electrical and plumbing layout schemes, arrangement of furniture, equipment, and decorative elements)",
+            "four": "Author supervision of the project",
+            "five": "Selection, purchase, delivery, and transportation of construction and repair materials.",
+            "six": "Major repairs (plastering, wall putty, electrical and plumbing points installation, wallpapering, wall painting, floor leveling, laminate and tile laying, installation of baseboards, window sills, installation of drywall structures, installation and connection of lighting elements, sockets and switches, installation and connection of plumbing)",
+            "seven": "Selection, ordering, and arrangement of furniture",
+            "eight": "Selection, ordering, and installation of household appliances (standard set)",
+            "nine": "Selection and installation of lighting elements, chandeliers, wall lamps, etc. (** standard set)",
+            "ten": "Selection of plumbing and accessories",
+            "eleven": "Interior/exterior decoration (home staging)",
+            "twelev": "Post-repair general cleaning",
+            "thirteen": "Construction waste removal",
+            "fourteen": "Warranty for completed work: 1 year*"
+        }
+    },
+    "sectionrepairetime": {
+        "titleone": "WHAT IS THE ORDER OF REPAIR AND HOW LONG DOES IT TAKE?",
+        "titletwo": "HOW WILL YOUR REPAIR BE DONE?",
+        "cards": {
+            "firstcard": {
+            "title": "ROUGH WORKS",
+            "category": {
+                "one": "Creating design project",
+                "two": "Approval of estimate",
+                "three": "Dismantling and construction of walls",
+                "four": "Plumbing and electrical wiring installation",
+                "five": "Engineering works"
+            }
+            },
+            "secondcard": {
+            "title": "PRE-FINISHING WORKS",
+            "category": {
+                "one": "Final ceiling finishing",
+                "two": "Final wall finishing",
+                "three": "Dismantling and construction of walls",
+                "four": "Engineering works",
+                "five": "Wall plastering",
+                "six": "Plumbing and electrical wiring installation",
+                "seven": "Floor screed"
+            }
+            },
+            "thirtcard": {
+            "title": "FINISHING WORKS",
+            "category": {
+                "one": "Ceiling cladding",
+                "two": "Tiling works",
+                "three": "Wall putty",
+                "four": "Ceiling putty",
+                "five": "Sanding walls and ceilings",
+                "six": "Priming walls and ceilings"
+            }
+            },
+            "fourcard": {
+            "title": "FINAL WORKS",
+            "category": {
+                "one": "Painting ceilings and walls",
+                "two": "Wallpaper application",
+                "three": "Installation of flooring and baseboards",
+                "four": "Installation of sockets and switches",
+                "five": "Installation of furniture and chandeliers",
+                "six": "Installation of sanitary fixtures"
+            }
+            },
+            "duration": "Duration",
+            "week": "weeks"
+        }
+    }
 }

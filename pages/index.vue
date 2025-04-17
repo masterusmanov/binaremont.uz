@@ -4,6 +4,9 @@
         <TwoSectionCards/>
         <SectionCalculator/>
         <SectionPartner/>
+        <SectionAdvantages/>
+        <SectionRepaire/>
+        <SectionRepaireTime/>
     </div>
 </template>
 
